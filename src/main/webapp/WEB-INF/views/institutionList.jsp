@@ -17,7 +17,7 @@
 <header class="header--main-page">
     <nav class="container container--70">
         <ul class="nav--actions">
-            <li>Witaj ${user.firstName}</li>
+            <li>Witaj dsafdsaf ${user.firstName}</li>
         </ul>
         <ul>
             <li><a href="/user/checkRole" class="btn btn--without-border active">Strona główna</a></li>
@@ -28,7 +28,7 @@
     <div class="slogan container container--90">
         <div class="slogan--item">
             <h1>
-                Zacznij pomagać!<br/>
+                Zacznij pomagać! fdsafdsafdsa<br/>
                 Oddaj niechciane rzeczy w zaufane ręce
             </h1>
         </div>
